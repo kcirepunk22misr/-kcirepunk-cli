@@ -1,0 +1,20 @@
+{
+	"name": "k-npm-ts",
+	"version": "1.0.0",
+	"description": "# Requirements * ... * ... * ...",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.js",
+	"directories": {
+		"test": "test",
+		"build": "tsc",
+		"watch": "tsc -w"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Erick Torres",
+	"license": "MIT",
+	"dependencies": {
+		"mocha": "^7.1.2"
+	}
+}
