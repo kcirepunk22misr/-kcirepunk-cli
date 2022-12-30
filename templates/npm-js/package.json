@@ -12,6 +12,6 @@
 	"author": "Erick Torres",
 	"license": "MIT",
 	"dependencies": {
-		"mocha": "^7.1.2"
+		"mocha": "^10.2.0"
 	}
 }
